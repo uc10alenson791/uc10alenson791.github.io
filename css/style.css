@@ -21,6 +21,13 @@
     float: left;
 }
 
+.carrinho{
+    background-color: #cdc;
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
 .footer{
     background-color: #999;
     width: 100%;
